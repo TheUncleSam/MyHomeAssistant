@@ -1,0 +1,1 @@
+2018-11-24 00:18:11 WARNING (MainThread) [homeassistant.components.http] legacy_api_password support has been enabled. If you don't require it, remove the 'api_password' from your http config.

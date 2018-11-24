@@ -1,0 +1,144 @@
+{
+    "data": {
+        "entities": [
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.chrome",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "zgg6gvu0lsi7gmpumwhtm4lh"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.pixel_2_xl",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "526fae0da0419ba8-com-plexapp-android"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.mediapad_t3_7",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "c59f5c1d35b03ad7-com-plexapp-android"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.chrome_2",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "5jsjl87yhxi907vpkyhe1rwwmi"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.chrome_3",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "1x78r3scjqr282g92aqrtcl5"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.chrome_4",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "kjmhw27yw6lrcw9u047sygbg"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.chrome_5",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "emmwnja57ngnx4usizmux7kd"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.chrome_6",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "9tubdtycwvdc54cfymvj6n7v"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.iphone",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "4B4F6BA7-AA00-423C-9DF9-F94F98466C07"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.roku_yg000f309266",
+                "name": null,
+                "platform": "roku",
+                "unique_id": "YG000F309266"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.express",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "da66eb32b5f49928ad256557f8846690"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.roku_yg008d716947",
+                "name": null,
+                "platform": "roku",
+                "unique_id": "YG008D716947"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.eat_shit",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "8682759d58dfe7b554dee9ef83cd5cf6"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.my_lgls990",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "2d519b4dd59255c7-com-plexapp-android"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.iphone_2",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "D5FF53E2-C17A-4584-96F2-B599A925F0BE"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.ipad_2",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "6154540D-92DE-4E4A-B035-8A2C310FCE33"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "entity_id": "media_player.safari",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "9o3wcjtzimjya6dfbrx48tz2"
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}

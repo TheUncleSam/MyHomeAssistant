@@ -1,0 +1,17 @@
+{
+    "data": {
+        "salt": "b9c2a64c7046f37e42b38c89515acc2902ac90208d90a41266d49c31b8fa9409",
+        "users": [
+            {
+                "password": "JDJiJDEyJEZUR25jQWxNWEs0LlZacXEvcXE3d09DLkhhS1A4ZXRaUkJWTUVzWExpRnJab3J1RTdSTEND",
+                "username": "AwesomeUncleSam"
+            },
+            {
+                "password": "JDJiJDEyJGJ6R1U1R0xmNkl4NTg2bmJPNTVCQ3VkV2lFMjZaREhpQ0FuSkZEeWlYL2FEa2xqMWFFck4u",
+                "username": "tablet"
+            }
+        ]
+    },
+    "key": "auth_provider.homeassistant",
+    "version": 1
+}

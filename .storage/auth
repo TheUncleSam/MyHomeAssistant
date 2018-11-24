@@ -1,0 +1,106 @@
+{
+    "data": {
+        "credentials": [
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "homeassistant",
+                "data": {
+                    "username": "AwesomeUncleSam"
+                },
+                "id": "9d2fd5364ba94f5a853159be6170c174",
+                "user_id": "1ccae37764cf469995a0345c11596d53"
+            },
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "homeassistant",
+                "data": {
+                    "username": "tablet"
+                },
+                "id": "9c3a1a6fc85a42bf9e2ebf623794ef61",
+                "user_id": "e6a59846ac9f46079586e34fe808e603"
+            }
+        ],
+        "groups": [
+            {
+                "id": "d7fc445440f64b7bb8964f84ce3cbd06",
+                "name": "All Access"
+            }
+        ],
+        "refresh_tokens": [
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": null,
+                "client_name": null,
+                "created_at": "2018-08-21T00:16:58.432013+00:00",
+                "id": "0741c76b7e3642208c3f3b9f97b96d30",
+                "jwt_key": "5df00121429a21240772b76c3809ee871f9844b61a9f565e1ef3748f4031a4141dd71a260b304172dbb15be7c77c8c7d06aac2ba6bae60ca89096b134e3bfd2f",
+                "last_used_at": "2018-11-24T05:23:44.654349+00:00",
+                "last_used_ip": "172.30.32.2",
+                "token": "c3f0b40ea0766cb668f04e6b80c3e76c37e09f7a121993aa8bedfc5701ebaff6396cfdd9e9d5312e1375696545cc8b6b419e7161eda3d951f17c640b0745f42f",
+                "token_type": "system",
+                "user_id": "f66a6d7d4b7e4db1a8a468c05059b677"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://hassio.local:8123/",
+                "client_name": null,
+                "created_at": "2018-09-12T01:58:14.845072+00:00",
+                "id": "e9728288a7a24ea2a04ca55feb4610f6",
+                "jwt_key": "697eea748d40641063c56a150b1c3ed60e23f0b5cd921085d547788afd7e248e2a634c18b9d4e6f1fcfcef02b1a259ce600fa40405122ac52af16ffefc35f15e",
+                "last_used_at": "2018-11-24T05:14:04.457663+00:00",
+                "last_used_ip": "192.168.86.183",
+                "token": "59ec95950d8918f1a8ee989a6ab37b408ae3c2d0cfd6d1719d5fc374d84266a33bda49cf9b750c5253fff5f894a5ea0145528b1c6316a230c92263396d079da3",
+                "token_type": "normal",
+                "user_id": "1ccae37764cf469995a0345c11596d53"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "https://auth.homehabit.app",
+                "client_name": null,
+                "created_at": "2018-11-24T02:58:31.088738+00:00",
+                "id": "ae82dce4da8f4b1c812ea849754b4b0c",
+                "jwt_key": "88d56ce33defa141a0c3471f6bfbe856e3d917996c9a1dbe69939cdffd091cd9228b18c1fb9c48675248dab2dbdff3f9e3a1a01c249a28dafa02744ac92bd9e1",
+                "last_used_at": "2018-11-24T05:07:17.031366+00:00",
+                "last_used_ip": "192.168.86.24",
+                "token": "e2131633bf172fdcf96e28224962fc8fefcefa0dfa30377401bf4748fd93855a7ef44a7c4aa64cf4dd6f7522294f119e4136b1a90355cf22b8445cda6a9d19d3",
+                "token_type": "normal",
+                "user_id": "e6a59846ac9f46079586e34fe808e603"
+            }
+        ],
+        "users": [
+            {
+                "group_ids": [],
+                "id": "f66a6d7d4b7e4db1a8a468c05059b677",
+                "is_active": true,
+                "is_owner": false,
+                "name": "Hass.io",
+                "system_generated": true
+            },
+            {
+                "group_ids": [
+                    "d7fc445440f64b7bb8964f84ce3cbd06"
+                ],
+                "id": "1ccae37764cf469995a0345c11596d53",
+                "is_active": true,
+                "is_owner": true,
+                "name": "Sam Heying",
+                "system_generated": false
+            },
+            {
+                "group_ids": [
+                    "d7fc445440f64b7bb8964f84ce3cbd06"
+                ],
+                "id": "e6a59846ac9f46079586e34fe808e603",
+                "is_active": true,
+                "is_owner": false,
+                "name": "Tablet",
+                "system_generated": false
+            }
+        ]
+    },
+    "key": "auth",
+    "version": 1
+}
